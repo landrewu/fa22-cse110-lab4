@@ -1,0 +1,2 @@
+1. The bug is that the expression adding num1 and num2 adds together strings instead of numbers, resulting in string addition instead of number addition.
+2. To fix the bug, I would change the strings to numbers before adding them together.
